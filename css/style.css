@@ -26,16 +26,7 @@ header{
     justify-content: space-between;
     box-shadow: 0 .5rem 1rem rgba(0,0,0, .1);
 }
-.sidebar   {
-    position:fixed;
-    top: 5px; 
-    right:-250px;
-    background: #60AFB2;
-    width:250px;
-    height:100%;
-    transition: .3s;
-    
-}
+
 .active{
     right: 0;
 }
